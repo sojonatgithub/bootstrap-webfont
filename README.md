@@ -1,12 +1,13 @@
-<img src="https://repository-images.githubusercontent.com/300240939/0f6d4180-0408-11eb-977b-009597e2a8cc">
-
-<h3 align="center">Bootstrap Icons v1.0.0</h3>
+<h2 align="center">Bootstrap Webfont v1.0.0</h2>
 
 <p align="center">
   Open source Webfont library with new Bootstrap icons.
   <br>
   <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
 </p>
+<a href="https://icons.getbootstrap.com/">
+<img src="https://repository-images.githubusercontent.com/300240939/0f6d4180-0408-11eb-977b-009597e2a8cc">
+</a>
 
 ## Clone this project
 
